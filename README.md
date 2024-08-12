@@ -11,7 +11,7 @@ A simple user-friendly interface for interacting with Ollama models using Stream
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/simple-ollama-streamlit-ui.git
+   git clone https://github.com/morteza-asadi/Streamlit-UI-for-Ollama.git
    cd simple-ollama-streamlit-ui
    ```
 
