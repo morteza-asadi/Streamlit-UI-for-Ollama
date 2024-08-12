@@ -12,7 +12,7 @@ A simple user-friendly interface for interacting with Ollama models using Stream
 1. Clone the repository:
    ```
    git clone https://github.com/morteza-asadi/Streamlit-UI-for-Ollama.git
-   cd simple-ollama-streamlit-ui
+   cd Streamlit-UI-for-Ollama
    ```
 
 2. Start the services using Docker Compose:
